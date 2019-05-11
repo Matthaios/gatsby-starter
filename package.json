@@ -2,6 +2,7 @@
   "name": "@matthaios/gatsby-starter",
   "description": "A simple starter to get up and developing quickly with Gatsby",
   "version": "0.1.0",
+  "private": true,
   "author": "Mate Mišlov <contact@matemislov.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
@@ -42,6 +43,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Matthaios/gatsby-starter"
-  },
-  "access": "public"
+  }
 }
